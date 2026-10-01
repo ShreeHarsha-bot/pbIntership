@@ -14,7 +14,6 @@ def menu():
     print("8. Exit")
     print("==========================================")
 
-
 def add_product():
     name = input("Enter product name: ").strip()
 
@@ -235,3 +234,4 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
